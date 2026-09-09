@@ -1,0 +1,13 @@
+{
+  "version": "1.2.0",
+  "releaseDate": "2026-09-09",
+  "releaseNotes": [
+    "Initial stable release with full offline support",
+    "Live dynamic currency conversion with 2-hour offline caching",
+    "Desktop application menu bar (File, Edit, View, Tools, Help)",
+    "7 colorful modern themes including AMOLED and Emerald Mint",
+    "Windows C: drive NSIS installer with desktop shortcuts",
+    "One-click software update center connected to GitHub"
+  ],
+  "downloadUrl": "https://github.com/HusainMalkani/invox-app/releases/download/v1.2.0/Invox-Setup-1.2.0.exe"
+}
