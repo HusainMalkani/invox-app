@@ -1,8 +1,8 @@
 {
-  "version": "1.3.0",
+  "version": "1.4.0",
   "releaseDate": "2026-09-10",
   "releaseNotes": [
-    "Removed the path info in software upgrade section"
+    "Modified UI Improvements - Minor"
   ],
-  "downloadUrl": "https://github.com/HusainMalkani/invox-app/releases/download/v1.3.0/Invox-Setup-1.3.0.exe"
+  "downloadUrl": "https://github.com/HusainMalkani/invox-app/releases/download/v1.4.0/Invox-Setup-1.4.0.exe"
 }
