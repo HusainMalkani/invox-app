@@ -1,8 +1,9 @@
 {
-  "version": "1.4.0",
-  "releaseDate": "2026-09-10",
+  "version": "1.5.0",
+  "releaseDate": "2026-09-22",
   "releaseNotes": [
-    "Modified UI Improvements - Minor"
+    "Added security to Finince tab",
+    "Added support to change the fontsize in invoice"
   ],
-  "downloadUrl": "https://github.com/HusainMalkani/invox-app/releases/download/v1.4.0/Invox-Setup-1.4.0.exe"
+  "downloadUrl": "https://github.com/HusainMalkani/invox-app/releases/download/v1.5.0/Invox-Setup-1.5.0.exe"
 }
